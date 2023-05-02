@@ -1,0 +1,28 @@
+
+
+
+.title{
+position: absolute;
+width: 202px;
+height: 108px;
+left: 24px;
+top: 48px;
+}
+
+.title>h2{
+
+font-size: 10.178vw;
+line-height: 13.740vw;
+
+color: #C98686;
+}
+
+.search{
+position: absolute;
+left: 8%;
+right: -0.31%;
+top: 6%;
+bottom: 1.69%;
+height:6.107vw;
+width:6.107vw;
+}

@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Noto Sans');
+
+*{
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 900;
+}
+
+body{
+
+    position: relative;
+width: 393px;
+height: 852px;
+overflow-y: scroll;
+background: #FFF4EC;
+    }
+    
